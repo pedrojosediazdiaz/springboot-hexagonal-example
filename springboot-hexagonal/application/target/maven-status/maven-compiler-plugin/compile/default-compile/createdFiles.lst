@@ -1,0 +1,4 @@
+com\microservice\prices\application\ports\spi\PricePersistance.class
+com\microservice\prices\application\service\exceptions\ServiceException.class
+com\microservice\prices\application\ports\api\PricesAPIService.class
+com\microservice\prices\application\service\PriceService.class

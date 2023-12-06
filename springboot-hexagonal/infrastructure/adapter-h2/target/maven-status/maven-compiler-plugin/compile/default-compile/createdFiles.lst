@@ -1,0 +1,6 @@
+com\microservice\prices\infrastructure\h2\entity\PriceEntity.class
+com\microservice\prices\infrastructure\h2\adapter\PriceH2Adapter.class
+com\microservice\prices\infrastructure\h2\mapper\PriceDboMapperImpl.class
+com\microservice\prices\infrastructure\h2\exceptions\DboException.class
+com\microservice\prices\infrastructure\h2\repository\PriceRepository.class
+com\microservice\prices\infrastructure\h2\mapper\PriceDboMapper.class

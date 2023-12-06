@@ -1,0 +1,4 @@
+com\microservice\prices\infrastructure\rest\mapper\PriceDtoMapper.class
+com\microservice\prices\infrastructure\rest\mapper\PriceDtoMapperImpl.class
+com\microservice\prices\infrastructure\rest\controller\PropResource.class
+com\microservice\prices\infrastructure\rest\dto\PriceResponseDto.class

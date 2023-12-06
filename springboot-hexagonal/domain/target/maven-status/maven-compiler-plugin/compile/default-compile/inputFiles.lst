@@ -1,0 +1,11 @@
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\PriceId.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\PriceList.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\shared\Entity.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\ProductId.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\shared\RootAggregate.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\Priority.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\Price.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\shared\DomainEvent.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\Currency.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\model\BrandId.java
+C:\Users\6002721\Downloads\springboot-hexagonal\domain\src\main\java\com\microservice\prices\domain\shared\ValueObject.java
